@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Akhileshait)
 <h1 align="center">Hi 👋, I'm Akhilesh</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 
