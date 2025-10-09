@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhilesh</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
-          
-How to reach me **akhilsnayak@gmail.com**
+
+<p align="center">📫 Reach me at <strong><a href="mailto:darshan.email@example.com" style="color: #87ceeb;">akhilsnayak@gmail.com</a></strong></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
