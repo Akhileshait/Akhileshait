@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Patidar</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 
-- 🔭 I’m currently working on **Developing Skills**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 💬 Ask me about **React and NodeJS**
-
 - 📫 How to reach me **akhilsnayak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
