@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Patidar</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 
-- 📫 How to reach me **akhilsnayak@gmail.com**
+<p align="center"> How to reach me **akhilsnayak@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
