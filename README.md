@@ -15,10 +15,10 @@
 
 
 ## Here are some statistics 🔢
-
+<p align="center">
 My performance             |  My most used languages
 :-------------------------:|:-------------------------:
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhileshait&show_icons=true&theme=radical)]([https://github.com/sawa-ko](https://github.com/Akhileshait))  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhileshait&theme=radical&layout=compact)]([https://github.com/sawa-ko](https://github.com/Akhileshait))
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhileshait&show_icons=true&theme=radical)]([https://github.com/sawa-ko](https://github.com/Akhileshait))  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhileshait&theme=radical&layout=compact)]([https://github.com/sawa-ko](https://github.com/Akhileshait))</p>
 
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhileshait&theme=dark&background=0d1117&stroke=87ceeb&ring=b53701&fire=FBB741&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=87ceeb&sideLabels=87ceeb&dates=ffffff" alt="GitHub Streak Stats"/></p>
